@@ -506,26 +506,27 @@ http://127.0.0.1:8000/docs
 # Screenshots
 
 ## Swagger API Testing
+<img width="1878" height="880" alt="Screenshot 2026-05-22 235646" src="https://github.com/user-attachments/assets/1c4e2c6c-1ea5-4685-85ad-67b0aba4828e" />
 
-<!-- ADD SWAGGER SCREENSHOT HERE -->
 
-![Swagger UI](images/swagger.png)
+
+
+
+
+
 
 ---
 
 ## Backend Running
 
 <!-- ADD TERMINAL RUNNING SCREENSHOT HERE -->
+<img width="800" height="425" alt="llm_service py-greenpack_ai_service-VisualStudioCode2026-05-2223-55-54-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/c2fb21ba-a5a6-410e-a9d7-dddf9e1d02d7" />
 
 ![Backend Running](images/backend_running.png)
 
 ---
 
-## Project Structure
 
-<!-- ADD VS CODE STRUCTURE SCREENSHOT HERE -->
-
-![Project Structure](images/project_structure.png)
 
 ---
 
