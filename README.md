@@ -1,5 +1,7 @@
 # GreenPack AI Service
 
+<img width="800" height="425" alt="llm_service py-greenpack_ai_service-VisualStudioCode2026-05-2223-55-54-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0634b824-be81-4373-aa44-0966a2cfcc27" />
+
 ## Problem Statement
 
 The goal of this project was to build an AI-powered backend service for EPR (Extended Producer Responsibility) compliance workflows.
