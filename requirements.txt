@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+pandas
+langchain
+langchain-community
+chromadb
+requestspi
+langchain-cohere
+groq
