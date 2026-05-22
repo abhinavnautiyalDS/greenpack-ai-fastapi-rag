@@ -522,7 +522,6 @@ http://127.0.0.1:8000/docs
 <!-- ADD TERMINAL RUNNING SCREENSHOT HERE -->
 <img width="800" height="425" alt="llm_service py-greenpack_ai_service-VisualStudioCode2026-05-2223-55-54-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/c2fb21ba-a5a6-410e-a9d7-dddf9e1d02d7" />
 
-![Backend Running](images/backend_running.png)
 
 ---
 
